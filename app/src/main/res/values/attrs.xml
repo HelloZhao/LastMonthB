@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomDircleView">
+        <attr name="outCirRadius" format="integer"></attr>
+        <attr name="inCirRadius" format="integer"></attr>
+        <attr name="circleColor" format="color"></attr>
+        <attr name="middleTxt" format="string"></attr>
+        <attr name="textSize" format="dimension"></attr>
+
+    </declare-styleable>
+</resources>
